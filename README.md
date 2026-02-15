@@ -1,4 +1,4 @@
-** TODO LIST
+## TODO LIST
 A clean, responsive, and functional To-Do List built with vanilla HTML, CSS, and JavaScript.
 
 
@@ -11,5 +11,6 @@ A clean, responsive, and functional To-Do List built with vanilla HTML, CSS, and
 * HTML5
 * CSS3
 * JavaScript
-![Screenshot](screenshot.png)
-## Live demo
+
+## Screenshot
+![App Screenshot](Screenshot.png)
