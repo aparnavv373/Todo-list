@@ -12,3 +12,4 @@ A clean, responsive, and functional To-Do List built with vanilla HTML, CSS, and
 * CSS3
 * JavaScript
 ![Screenshot](screenshot.png)
+## Live demo
