@@ -1,6 +1,5 @@
 ## TODO LIST
-A clean, responsive, and functional To-Do List built with vanilla HTML, CSS, and JavaScript.
-
+A clean, responsive, and functional To-Do List built with Vanilla JavaScript
 
 ## Features
 * Add Task
@@ -14,3 +13,7 @@ A clean, responsive, and functional To-Do List built with vanilla HTML, CSS, and
 
 ## Screenshot
 ![App Screenshot](Screenshot.png)
+
+## Live Demo
+
+https://aparnavv373.github.io/Todo-list/
